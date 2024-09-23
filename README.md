@@ -1,4 +1,3 @@
-##vinPedro
 Óla! Me chamo Pedro Vinicius e sou um desenvolvedor de Sistemas e atualmente estou cursando o 3° período de Análise e Desenvolvimento de Sistemas.
 
 ## Conecte-se comigo
