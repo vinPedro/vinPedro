@@ -1,5 +1,5 @@
 # vinPedro
-Óla! Me chamo Pedro Vinicius e sou um desenvolvedor de Sistemas e atualmente estou cursando o 4° período de Análise e Desenvolvimento de Sistemas.
+Óla! Me chamo Pedro Vinicius e sou um desenvolvedor de Sistemas e atualmente estou cursando o 5° período de Análise e Desenvolvimento de Sistemas.
 
 ## Conecte-se comigo
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lopespedrovinicius@gmail.com)
